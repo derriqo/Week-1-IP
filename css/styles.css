@@ -1,13 +1,19 @@
 h1 {
   color: black;
-  text-align: center;
   font-weight: bold;
 }
 h2 {
   font-style: normal;
+}
+.derrick {
   text-align: center;
 }
-
+.newstuff{
+  text-align: left;
+}
+.text-left {
+  text-align: left;
+}
 
 .aboutDerrick {
   text-align: left;
@@ -16,6 +22,7 @@ h2 {
 
 body {
   background-color: teal;
+  margin:inherit;
 }
 
 p{
