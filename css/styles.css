@@ -8,6 +8,7 @@ h2 {
 }
 .derrick {
   text-align: center;
+  background-color:
 }
 .newstuff{
   text-align: left;
@@ -16,22 +17,25 @@ h2 {
   text-align: left;
 }
 
-.my-projects {
+.my-projects{
   text-align: left;
-
 }
-ol  {
-  font-style: normal;
+
+li  {
+  font-family: serif;
   line-height: inherit;
 
 }
 body {
-  background-color: teal;
-  margin:100px;
+  background-image: url(../images/eggs.jpg);
+  margin: 100px 150px;
+  color: #88d112;
+  font-size: 220%;
+
 }
 
 p{
-font-family: sans-serif;
+font-family: cursive, sans-serif;
 text-indent: inherit;
 font-size: 20px;
 }
