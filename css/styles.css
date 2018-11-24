@@ -8,28 +8,26 @@ h2 {
 }
 .derrick {
   text-align: center;
-  background-color:
 }
 .newstuff{
-  text-align: left;
+  text-align:center;
 }
 .text-left {
   text-align: left;
 }
 
-.my-projects{
-  text-align: left;
-}
+
+
 
 li  {
-  font-family: serif;
+  font-family: Arial, Helvetica ,serif ;
   line-height: inherit;
 
 }
 body {
-  background-image: url(../images/eggs.jpg);
+  background-image: url(../images/board.jpg);
   margin: 100px 150px;
-  color: #88d112;
+  color: black;
   font-size: 220%;
 
 }
