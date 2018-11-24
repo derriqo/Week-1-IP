@@ -18,7 +18,7 @@ h2 {
 
 
 .container {
-  
+  font-weight: bold;
 }
 
 li  {
@@ -34,6 +34,7 @@ body {
 }
 .ullist{
   align-items: center;
+  font-weight: normal;
 }
 p{
 font-family: cursive, sans-serif;
@@ -41,7 +42,9 @@ text-indent: inherit;
 font-size: 30px;
 line-height: 30px;
 }
-
+img{
+  float: left;
+}
 .center{
   display: block;
   margin-left: auto;
