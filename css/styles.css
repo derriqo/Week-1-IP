@@ -17,7 +17,9 @@ h2 {
 }
 
 
-
+.container {
+  
+}
 
 li  {
   font-family: Arial, Helvetica ,serif ;
@@ -25,17 +27,19 @@ li  {
 
 }
 body {
-  background-image: url(../images/board.jpg);
+  background-image: url(../images/green.jpg);
   margin: 100px 150px;
-  color: black;
+  color: 	white;
   font-size: 220%;
-
 }
-
+.ullist{
+  align-items: center;
+}
 p{
 font-family: cursive, sans-serif;
 text-indent: inherit;
-font-size: 20px;
+font-size: 30px;
+line-height: 30px;
 }
 
 .center{
