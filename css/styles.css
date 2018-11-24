@@ -1,8 +1,4 @@
-.top-part {
-  height: 50px;
-  width: auto;
-  border-color: red;
-}
+
 h1 {
   color: black;
   font-weight: bold;
@@ -24,7 +20,11 @@ h2 {
   text-align: left;
 
 }
+ol  {
+  font-style: normal;
+  line-height: inherit;
 
+}
 body {
   background-color: teal;
   margin:100px;
