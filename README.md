@@ -2,7 +2,7 @@
 
 #  Description of Project
 
-This Portfolio is an explanation of who Derrick William. It includes his hobbies ,and also list of projects that he has done. This project has been developed using a standard markup language called HTML and also CSS style language. Here is a link to Git hub repository ()
+This Portfolio is an explanation of who Derrick William. It includes his hobbies ,and also list of projects that he has done. This project has been developed using a standard markup language called HTML and also CSS style language. Here is a link to Git hub repository (https://github.com/derriqo/Week-1-IP)
 
 ### Project Setup instructions
 
