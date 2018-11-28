@@ -2,10 +2,21 @@ h1 {
   color: black;
   align-items: center;
   font-weight: bold;
-  font-size: 16px;
+  font-size: 50px;
 }
 h2 {
   font-style: normal;
+}
+body {
+  background-image: url(../images/green.jpg);
+  margin: 100px 150px;
+  color: 	white;
+  font-size: 220%;
+}
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 }
 .derrick {
@@ -18,7 +29,6 @@ h2 {
   text-align: left;
 }
 
-
 .container {
   font-weight: bold;
 }
@@ -28,12 +38,7 @@ li  {
   line-height: inherit;
 
 }
-body {
-  background-image: url(../images/green.jpg);
-  margin: 100px 150px;
-  color: 	white;
-  font-size: 220%;
-}
+
 .ullist{
   align-items: center;
   font-weight: normal;
@@ -44,11 +49,5 @@ text-indent: inherit;
 font-size: 30px;
 line-height: 30px;
 }
-img{
-  float: left;
-}
-.center{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+
 }
